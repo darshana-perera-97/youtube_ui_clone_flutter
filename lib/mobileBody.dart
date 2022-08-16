@@ -7,6 +7,7 @@ class mobileBody extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.red,
+      appBar: AppBar(title: Text("as")),
     );
   }
 }
