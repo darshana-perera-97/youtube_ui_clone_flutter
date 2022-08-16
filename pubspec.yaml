@@ -3,7 +3,7 @@ description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -30,7 +30,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
@@ -51,7 +50,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
@@ -59,19 +57,20 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images(1).jpg
-    - assets/images(2).jpg
-    - assets/images(3).jpg
-    - assets/images(4).jpg
-    - assets/images(5).jpg
-    - assets/images(6).jpg
-    - assets/images(7).jpg
-    - assets/images(8).jpg
-    - assets/images(9).jpg
-    - assets/images(10).jpg
-    - assets/images(11).jpg
-    - assets/images(12).png
+    - assets/i1.jpg
+    - assets/i2.jpg
+    - assets/i3.jpg
+    - assets/i4.jpg
+    - assets/i5.jpg
+    - assets/i6.jpg
+    - assets/i7.jpg
+    - assets/i8.jpg
+    - assets/i9.jpg
+    - assets/i10.jpg
+    - assets/i11.jpg
+    - assets/i12.png
     - assets/logo.png
+    - assets/main.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
